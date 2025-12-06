@@ -23,7 +23,7 @@
 
 <p align="center">
 	<a href="mailto:alvarezcarranzajoseangelx@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
-	<a href="www.linkedin.com/in/jose-angel-alvarez-carranza-68a71029b"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/jose-angel-alvarez-carranza-68a71029b"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ## 🧰 Tech Stack
